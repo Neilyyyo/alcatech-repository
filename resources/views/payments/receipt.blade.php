@@ -4,7 +4,7 @@
 <div class="min-h-screen bg-gray-100 p-8">
     <!-- Header Section (Hidden in Print) -->
     <div class="text-center mb-8" id="header">
-        <h1 class="text-4xl font-bold text-orange-600">Payment Receipt</h1>
+        <h1 class="text-4xl font-bold text-gray-600">Payment Receipt</h1>
         <p class="text-xl text-gray-600">Thank you for your payment!</p>
     </div>
 

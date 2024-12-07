@@ -20,8 +20,9 @@ class Room extends Model
 
     public function tenants()
     {
-        return $this->hasMany(Tenant::class, 'room_ID');
+        return $this->hasMany(Tenant::class, 'room_id');
     }
+    
 }
 
 
